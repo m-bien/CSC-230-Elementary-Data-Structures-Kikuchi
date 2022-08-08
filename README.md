@@ -17,4 +17,5 @@ My solutions to Kikuchi's CSC 230 Java assignments
 **5.** Inheritance Classes: main, GeometricObject, Triangle
 
 **6.** Collections & ArrayList: lottery game <br/>
-&emsp;* *group lab*
+&emsp;* *group lab* <br/>
+&emsp;* *number matching does not work :)*
