@@ -7,7 +7,7 @@ My solutions to Kikuchi's CSC 230 Java assignments
 
 **1.** Rectangle class: setLength(), setWidth(), getLength(), getWidth, getArea() 
 
-**2.** Recursion: countUppercase()
+**2.** Recursion: helper method, countUppercase()
 
 **3.** *N/A: asymptotic notation*
 
