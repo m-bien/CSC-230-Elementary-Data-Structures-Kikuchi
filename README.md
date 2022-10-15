@@ -1,8 +1,6 @@
 ![thumbnail](https://i.ibb.co/871wH3f/CSC-230-Thumbnail.png)
 <hr>
 
-My solutions to Kikuchi's CSC 230 Java assignments
-
 ### Assignments
 
 **1.** Rectangle class: setLength(), setWidth(), getLength(), getWidth, getArea() 
